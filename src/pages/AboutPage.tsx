@@ -8,8 +8,7 @@ export function AboutPage() {
           Владимир Клименко
         </Title>
         <Text size="md" c="dark.4">
-          Привет! Я - Frontend-разработчик. Пишу приложения на React +
-          TypeScript + Redux Toolkit.
+          Привет! Я - Frontend-разработчик. Пишу приложения на React TypeScript + Redux Toolkit.
         </Text>
       </Paper>
     </Container>
